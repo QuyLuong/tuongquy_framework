@@ -1,0 +1,14 @@
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\bin\Debug\netcoreapp3.1\Bai1_HelloWorld.exe
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\bin\Debug\netcoreapp3.1\Bai1_HelloWorld.deps.json
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\bin\Debug\netcoreapp3.1\Bai1_HelloWorld.runtimeconfig.json
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\bin\Debug\netcoreapp3.1\Bai1_HelloWorld.runtimeconfig.dev.json
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\bin\Debug\netcoreapp3.1\Bai1_HelloWorld.dll
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\bin\Debug\netcoreapp3.1\Bai1_HelloWorld.pdb
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\obj\Debug\netcoreapp3.1\Bai1_HelloWorld.csproj.AssemblyReference.cache
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\obj\Debug\netcoreapp3.1\Bai1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\obj\Debug\netcoreapp3.1\Bai1_HelloWorld.AssemblyInfoInputs.cache
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\obj\Debug\netcoreapp3.1\Bai1_HelloWorld.AssemblyInfo.cs
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\obj\Debug\netcoreapp3.1\Bai1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\obj\Debug\netcoreapp3.1\Bai1_HelloWorld.dll
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\obj\Debug\netcoreapp3.1\Bai1_HelloWorld.pdb
+C:\LTQ\CODE\C#\tuongquy_framework\BaiTapLapTrinhCanBan\Bai1_HelloWorld\obj\Debug\netcoreapp3.1\Bai1_HelloWorld.genruntimeconfig.cache
