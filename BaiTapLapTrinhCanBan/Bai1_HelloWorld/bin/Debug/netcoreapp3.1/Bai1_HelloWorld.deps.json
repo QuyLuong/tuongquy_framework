@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "BaiTapLapTrinhCanBan/1.0.0": {
+      "Bai1_HelloWorld/1.0.0": {
         "runtime": {
-          "BaiTapLapTrinhCanBan.dll": {}
+          "Bai1_HelloWorld.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "BaiTapLapTrinhCanBan/1.0.0": {
+    "Bai1_HelloWorld/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

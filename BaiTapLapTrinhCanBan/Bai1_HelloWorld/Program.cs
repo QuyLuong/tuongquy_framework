@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace BaiTapLapTrinhCanBan
+namespace Bai1_HelloWorld
 {
-    class HelloWorld
+    class Program
     {
         static void Main(string[] args)
         {
